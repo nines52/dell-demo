@@ -1,0 +1,3388 @@
+.www-dell-com-by-html {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.www-dell-com-by-html .heading-laptops {
+  color: var(--black);
+  font-family: var(--roboto-bold-32-font-family);
+  font-size: var(--roboto-bold-32-font-size);
+  font-style: var(--roboto-bold-32-font-style);
+  font-weight: var(--roboto-bold-32-font-weight);
+  height: 38px;
+  left: -3199968px;
+  letter-spacing: var(--roboto-bold-32-letter-spacing);
+  line-height: var(--roboto-bold-32-line-height);
+  position: absolute;
+  top: 20px;
+  width: 728px;
+}
+
+.www-dell-com-by-html .section-header {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--nero);
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: var(--alto);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-mh-top-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-mh-top {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-left-column {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 0px 33.85px 0px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-dell-com-by-html .link-dell {
+  align-self: stretch;
+  display: block;
+  height: 56px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .search-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 804px;
+  padding: 0px 128px 0px 64px;
+  position: relative;
+}
+
+.www-dell-com-by-html .search {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 2px;
+  display: flex;
+  height: 48px;
+  max-width: 612px;
+  padding: 8px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .input-search-dell {
+  background-color: var(--nero);
+  border: 1px solid;
+  border-color: var(--nobel);
+  border-radius: 2px;
+  flex: 1;
+  flex-grow: 1;
+  height: 32px;
+  position: relative;
+}
+
+.www-dell-com-by-html .overlap-group {
+  height: 17px;
+  left: 17px;
+  position: relative;
+  top: 8px;
+  width: 496px;
+}
+
+.www-dell-com-by-html .div-placeholder {
+  background: none;
+  border: none;
+  color: #6e6e6e;
+  font-family: var(--roboto-regular-14-font-family);
+  font-size: var(--roboto-regular-14-font-size);
+  font-style: var(--roboto-regular-14-font-style);
+  font-weight: var(--roboto-regular-14-font-weight);
+  left: 0;
+  letter-spacing: var(--roboto-regular-14-letter-spacing);
+  line-height: var(--roboto-regular-14-line-height);
+  margin-top: -1px;
+  padding: 0px 426px 1px 0px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 496px;
+}
+
+.www-dell-com-by-html .div-text-field {
+  align-items: center;
+  display: flex;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 496px;
+}
+
+.www-dell-com-by-html .div-editing-view {
+  flex: 1;
+  flex-grow: 1;
+  height: 17px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-mh-search-btns {
+  height: 32px;
+  left: 571px;
+  position: absolute;
+  top: 8px;
+  width: 39px;
+}
+
+.www-dell-com-by-html .div-right-column {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-mh-myaccount {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 106.28px;
+}
+
+.www-dell-com-by-html .div-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 56px;
+  padding: 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-2 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .overlap-group-2 {
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 16px;
+  width: 66px;
+}
+
+.www-dell-com-by-html .span-um-si-label {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  max-width: 120px;
+  position: absolute;
+  top: 2px;
+}
+
+.www-dell-com-by-html .text-wrapper {
+  color: #636363;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .pseudo {
+  height: 24px;
+  left: 42px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.www-dell-com-by-html .span-icon-margin {
+  height: 16px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 24px;
+}
+
+.www-dell-com-by-html .span-mh-icon {
+  align-items: center;
+  display: inline-flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 18px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .pseudo-margin {
+  align-self: stretch;
+  object-fit: cover;
+  position: relative;
+  width: 20px;
+}
+
+.www-dell-com-by-html .div-unifiedglobe {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 56px;
+  position: relative;
+  width: 101.8px;
+}
+
+.www-dell-com-by-html .img {
+  height: 16px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.www-dell-com-by-html .overlap-group-3 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 16px;
+  width: 66px;
+}
+
+.www-dell-com-by-html .text-wrapper-2 {
+  color: #636363;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.www-dell-com-by-html .div-mh-cart {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 90.38px;
+}
+
+.www-dell-com-by-html .overlap-group-4 {
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 16px;
+  width: 50px;
+}
+
+.www-dell-com-by-html .span-label {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 2px;
+}
+
+.www-dell-com-by-html .pseudo-2 {
+  height: 24px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.www-dell-com-by-html .div-unified-masthead {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 686.91px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .nav {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 16px;
+  position: relative;
+}
+
+.www-dell-com-by-html .menu-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-dell-com-by-html .menuitem {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 35.7px 14px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .pseudo-3 {
+  height: 20px;
+  left: 52px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.www-dell-com-by-html .menuitem-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 35.52px 14px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .pseudo-4 {
+  height: 20px;
+  left: 117px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.www-dell-com-by-html .menuitem-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 34.92px 14px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .pseudo-5 {
+  height: 20px;
+  left: 178px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.www-dell-com-by-html .menuitem-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 35.73px 14px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .pseudo-6 {
+  height: 20px;
+  left: 70px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.www-dell-com-by-html .menuitem-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 35.38px 14px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .pseudo-7 {
+  height: 20px;
+  left: 66px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.www-dell-com-by-html .menuitem-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 35.84px 14px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .pseudo-8 {
+  height: 20px;
+  left: 72px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.www-dell-com-by-html .div-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-cat-order {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--mercury);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1483px;
+  padding: 0px 40px 1px;
+  position: relative;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .navigation-browse {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-category-bar {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 120px;
+  justify-content: center;
+  padding: 0px 221.5px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-hpg-cat-item-wrapper {
+  align-self: stretch;
+  position: relative;
+  width: 160px;
+}
+
+.www-dell-com-by-html .div-hpg-cat-item {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 8px;
+  position: relative;
+  top: 30px;
+}
+
+.www-dell-com-by-html .figure {
+  align-self: stretch;
+  flex: 0 0 auto;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-body {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 42.32px 0px 42.68px;
+  position: relative;
+}
+
+.www-dell-com-by-html .text-wrapper-3 {
+  color: var(--cod-gray);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-dds-body-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 37.85px 0px 38.15px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-body-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 23.83px 0px 24.17px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-body-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 39.31px 0px 39.69px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-hpg-cat-item-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 8px;
+  position: relative;
+  top: 30px;
+  width: 160px;
+}
+
+.www-dell-com-by-html .servers-storage-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 7.81px 0px 8.19px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .text-wrapper-4 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-dds-body-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 27.33px 0px 27.67px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-banner-order {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .navigation-banner {
+  align-items: flex-start;
+  background-color: var(--porcelain);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1483px;
+  overflow: hidden;
+  position: relative;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-dell-com-by-html .bf-cons-dell {
+  background-image: url(../../../static/img/bf-cons-dell-lifestyle-xps-9530nt-uhp-2404-01-au-hero-lf-2400x69.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  height: 430.61px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-hpg-card {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  left: -8px;
+  padding: 111.3px 741.5px 111.31px 40px;
+  position: absolute;
+  top: 0;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-hpg-card-text {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0px 0px;
+  position: relative;
+  width: 701.5px;
+}
+
+.www-dell-com-by-html .div-hpg-card-copy {
+  align-self: stretch;
+  height: 192px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 403.5px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 702px;
+}
+
+.www-dell-com-by-html .text-wrapper-5 {
+  color: var(--nero);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-hpg-card-copy-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 90.5px 0px 0px;
+  position: absolute;
+  top: 36px;
+  width: 702px;
+}
+
+.www-dell-com-by-html .text-wrapper-6 {
+  color: var(--nero);
+  font-family: "Roboto", Helvetica;
+  font-size: 40px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .heading-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 202.5px 0px 0px;
+  position: absolute;
+  top: 92px;
+  width: 702px;
+}
+
+.www-dell-com-by-html .div-hpg-card-copy-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 19.96px;
+  left: 0;
+  padding: 0px 428.38px 0px 0px;
+  position: absolute;
+  top: 144px;
+  width: 702px;
+}
+
+.www-dell-com-by-html .link {
+  align-items: center;
+  background-color: var(--nero);
+  border: 1px solid;
+  border-color: var(--nero);
+  border-radius: 2px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 19.13px 12px 20px;
+  position: relative;
+}
+
+.www-dell-com-by-html .text-wrapper-7 {
+  color: var(--cod-gray);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .link-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--nero);
+  border-radius: 2px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 19.03px 12px 20px;
+  position: relative;
+}
+
+.www-dell-com-by-html .text-wrapper-8 {
+  color: var(--nero);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-dds-container {
+  background-color: var(--nero);
+  height: 6465.17px;
+  max-width: 1483px;
+  position: relative;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-hp-cat-top {
+  align-items: center;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .navigation-explore {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  max-width: 1920px;
+  padding: 8px 0px 32px;
+  position: relative;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .heading-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 32px 554.26px 32px 554.74px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .text-wrapper-9 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-dds-row {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  padding: 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 17px;
+  padding: 0px 0px 16px;
+  position: relative;
+  width: 489px;
+}
+
+.www-dell-com-by-html .div-dds-col-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 1px;
+  padding: 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 473px;
+}
+
+.www-dell-com-by-html .figure-2 {
+  align-self: stretch;
+  background-image: url(../../../static/img/1106-welcome-to-now-703x423-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 284.45px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-hp-categorystrip {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading-4 {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .text-wrapper-10 {
+  color: var(--nero);
+  font-family: "Roboto", Helvetica;
+  font-size: 21px;
+  font-weight: 300;
+  height: 32px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.www-dell-com-by-html .SVG {
+  height: 15px;
+  left: 446px;
+  position: absolute;
+  top: 20px;
+  width: 16px;
+}
+
+.www-dell-com-by-html .figure-3 {
+  align-self: stretch;
+  background-image: url(../../../static/img/0821-nativeedge-703x423-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 284.45px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .figure-4 {
+  align-self: stretch;
+  background-image: url(../../../static/img/110223-thought-leadership-multicloud-ebook-703x423-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 284.45px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .navigation-XPS {
+  align-items: center;
+  display: flex;
+  left: 0;
+  max-width: 1483px;
+  position: absolute;
+  top: 496px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-dds-col-lg {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 1483px;
+  min-height: 1px;
+  padding: 0px 8px;
+  position: relative;
+}
+
+.www-dell-com-by-html .figure-5 {
+  background-image: url(../../../static/img/show-cons-dell-xps-9530nt-uhp-2403-01-au-homepage-mod-rf-1023x84.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 517.43px;
+  position: relative;
+  width: 849.09px;
+}
+
+.www-dell-com-by-html .div-dds-col-lg-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 17px;
+  padding: 16px 0px 0px;
+  position: relative;
+  width: 617.91px;
+}
+
+.www-dell-com-by-html .div-hd-af-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 184px;
+  justify-content: center;
+  padding: 0px 138.16px 0px 138.16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-hd-af {
+  align-self: stretch;
+  position: relative;
+  width: 341.59px;
+}
+
+.www-dell-com-by-html .div-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.www-dell-com-by-html .heading-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 117.64px 0px 118.95px;
+  position: relative;
+}
+
+.www-dell-com-by-html .text-wrapper-11 {
+  color: #0a0809;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-dds {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 8.07px 0px 8.52px;
+  position: relative;
+}
+
+.www-dell-com-by-html .heading-6 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 96px;
+}
+
+.www-dell-com-by-html .text-wrapper-12 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-hpg-sect-link {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 46.32px 0px 46.32px;
+  position: absolute;
+  top: 148px;
+}
+
+.www-dell-com-by-html .link-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 8px;
+  position: relative;
+}
+
+.www-dell-com-by-html .link-3 {
+  align-items: center;
+  border-color: var(--dove-gray);
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 21px 0px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .text-wrapper-13 {
+  color: var(--science-blue);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .link-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: -0.2px;
+  padding: 0px 0px 8px;
+  position: relative;
+  width: 136.15px;
+}
+
+.www-dell-com-by-html .link-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -0.61px;
+  padding: 0px 0px 0px 19.76px;
+  position: relative;
+}
+
+.www-dell-com-by-html .navigation-DELL {
+  align-items: center;
+  background-color: var(--porcelain);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  padding: 24px 8px 16px;
+  position: absolute;
+  top: 1014px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .heading-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 582.84px 0px 583.16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .text-wrapper-14 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 40px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .p-dds-body {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 378.33px 0px 378.67px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-row-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 36px;
+  justify-content: center;
+  padding: 0px 682.32px 8px 682.68px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 28px;
+  position: relative;
+}
+
+.www-dell-com-by-html .text-wrapper-15 {
+  color: var(--science-blue);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .navigation-LATITUDE {
+  align-items: center;
+  display: flex;
+  left: 0;
+  max-width: 1483px;
+  position: absolute;
+  top: 1194px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-hd-bfaf-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 184px;
+  justify-content: center;
+  padding: 0px 82.6px 0px 82.59px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-hd-bfaf {
+  align-self: stretch;
+  position: relative;
+  width: 452.72px;
+}
+
+.www-dell-com-by-html .heading-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 151.52px 0px 153.2px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-h {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 20.6px 0px 21.12px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-hpg-sect-link-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 78.77px 0px 78.77px;
+  position: absolute;
+  top: 148px;
+}
+
+.www-dell-com-by-html .link-margin-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: -0.2px;
+  padding: 0px 0px 8px;
+  position: relative;
+  width: 182.38px;
+}
+
+.www-dell-com-by-html .link-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -0.47px;
+  padding: 0px 0px 0px 19.85px;
+  position: relative;
+}
+
+.www-dell-com-by-html .figure-6 {
+  background-image: url(../../../static/img/bf-sb-dell-latitude-5540nt-5540t-uhp-2404-01-au-mod-lf-1023x842.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 517.43px;
+  position: relative;
+  width: 849.09px;
+}
+
+.www-dell-com-by-html .navigation {
+  align-items: center;
+  background-color: var(--nero);
+  display: flex;
+  left: 0;
+  padding: 48px;
+  position: absolute;
+  top: 1711px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-dds-col-md {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 1px;
+  padding: 0px 8px 16px;
+  position: relative;
+  width: 693.5px;
+}
+
+.www-dell-com-by-html .heading-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 231.07px 0px 231.43px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .p {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 209.1px 0px 209.4px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-col-lg-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1px;
+  position: relative;
+  width: 693.5px;
+}
+
+.www-dell-com-by-html .div-dds-row-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 84px;
+  padding: 0px 0px 16px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .img-2 {
+  display: block;
+  flex: 0 0 auto;
+  height: 68px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-col-margin {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 709.5px;
+  min-height: 1px;
+  padding: 0px 0px 0px 16px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-col-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 693.5px;
+  min-height: 1px;
+  padding: 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 446.5px 0px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .text-wrapper-16 {
+  color: var(--science-blue);
+  font-family: "Roboto", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .p-dds {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 135.5px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .text-wrapper-17 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .separator {
+  align-self: stretch;
+  border: 1px solid;
+  border-color: var(--dusty-gray);
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-row-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 100px;
+  padding: 16px 0px 16px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .warranty-contracts-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 394.5px 0px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .p-dds-h {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 353.5px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .p-dds-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 261.5px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-row-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 84px;
+  padding: 16px 0px 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .drivers-downloads-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 400.5px 0px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .p-dds-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 305.5px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .navigation-PCS {
+  align-items: center;
+  display: flex;
+  left: 0;
+  max-width: 1483px;
+  position: absolute;
+  top: 2181px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .figure-7 {
+  background-image: url(../../../static/img/bf-cons-dell-aw-m18-aw720h-aw720m-aw3423dwf-aw920k-uhp-2404-01-a.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 517.43px;
+  position: relative;
+  width: 849.09px;
+}
+
+.www-dell-com-by-html .div-hd-fde-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 184px;
+  justify-content: center;
+  padding: 0px 48.22px 0px 48.21px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-hd-fde {
+  align-self: stretch;
+  position: relative;
+  width: 521.48px;
+}
+
+.www-dell-com-by-html .PCS-MONITORS-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 137.15px 0px 140.33px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 126.54px 0px 126.94px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-hpg-sect-link-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 131.17px 0px 130.86px;
+  position: absolute;
+  top: 148px;
+}
+
+.www-dell-com-by-html .link-7 {
+  align-items: center;
+  border-color: var(--dove-gray);
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 20.36px 0px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .link-margin-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 8px;
+  position: relative;
+  width: 151.09px;
+}
+
+.www-dell-com-by-html .link-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -0.61px;
+  padding: 0px 0px 0px 19.7px;
+  position: relative;
+}
+
+.www-dell-com-by-html .navigation-DELL-2 {
+  align-items: center;
+  display: flex;
+  left: 0;
+  max-width: 1483px;
+  position: absolute;
+  top: 2699px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-hd-ceb-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 256px;
+  justify-content: center;
+  padding: 0px 44.48px 0px 44.48px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-7 {
+  align-self: stretch;
+  position: relative;
+  width: 528.95px;
+}
+
+.www-dell-com-by-html .div-hd-ebcef {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15.5px;
+  left: 0;
+  padding: 0px 0px 0.5px;
+  position: absolute;
+  top: 0;
+}
+
+.www-dell-com-by-html .heading-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 202.6px 0px 203.35px;
+  position: relative;
+}
+
+.www-dell-com-by-html .dell-monitors-are-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 7.58px 0px 8.37px;
+  position: relative;
+}
+
+.www-dell-com-by-html .dell-monitors-are {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .heading-11 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 101.82px 0px 102.13px;
+  position: absolute;
+  top: 136px;
+}
+
+.www-dell-com-by-html .p-dds-caption {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 39.7px 0px 40.25px;
+  position: absolute;
+  top: 188px;
+}
+
+.www-dell-com-by-html .text-wrapper-18 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.06px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-hpg-sect-link-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 218.38px 8px 218.57px;
+  position: absolute;
+  top: 220px;
+}
+
+.www-dell-com-by-html .link-9 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-dell-com-by-html .figure-8 {
+  background-image: url(../../../static/img/bb2401g0032-666428-gl-csb-fy24q1-worlds-no1-monitor-company-moni.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 517.43px;
+  position: relative;
+  width: 849.09px;
+}
+
+.www-dell-com-by-html .navigation-EVERYDAY {
+  align-items: center;
+  display: flex;
+  left: 0;
+  max-width: 1483px;
+  position: absolute;
+  top: 3216px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .image-wrapper {
+  height: 517.43px;
+  position: relative;
+  width: 849.09px;
+}
+
+.www-dell-com-by-html .image {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 1500px;
+  position: relative;
+  width: 849px;
+}
+
+.www-dell-com-by-html .image-fill {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 517.43px;
+  justify-content: center;
+  padding: 0px 109.91px;
+  position: relative;
+  width: 849.09px;
+}
+
+.www-dell-com-by-html .image-2 {
+  height: 517.43px;
+  position: relative;
+  width: 629.27px;
+}
+
+.www-dell-com-by-html .div-hd-afea-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 184px;
+  justify-content: center;
+  padding: 0px 82.41px 0px 82.4px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-hd-afea {
+  align-self: stretch;
+  position: relative;
+  width: 453.1px;
+}
+
+.www-dell-com-by-html .heading-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 137.7px 0px 139.4px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 60.33px 0px 60.77px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-hpg-sect-link-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 109.07px 0px 109.24px;
+  position: absolute;
+  top: 148px;
+}
+
+.www-dell-com-by-html .link-margin-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.21px;
+  padding: 0px 0px 8px;
+  position: relative;
+}
+
+.www-dell-com-by-html .link-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0px 20px;
+  position: relative;
+}
+
+.www-dell-com-by-html .navigation-SERVERS {
+  align-items: center;
+  display: flex;
+  left: 0;
+  max-width: 1483px;
+  position: absolute;
+  top: 3734px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-dds-col-lg-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 212px;
+  justify-content: center;
+  padding: 0px 44.48px 0px 44.48px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading-13 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 133.49px 0px 136.46px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 58.14px 0px 58.81px;
+  position: relative;
+}
+
+.www-dell-com-by-html .power-transformation-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 21.19px 0px 21.76px;
+  position: absolute;
+  top: 96px;
+}
+
+.www-dell-com-by-html .text-wrapper-19 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-hpg-sect-link-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 103.99px 0px 104.22px;
+  position: absolute;
+  top: 176px;
+}
+
+.www-dell-com-by-html .link-margin-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.26px;
+  padding: 0px 0px 8px;
+  position: relative;
+}
+
+.www-dell-com-by-html .navigation-PRECISION {
+  align-items: center;
+  display: flex;
+  left: 0;
+  max-width: 1483px;
+  position: absolute;
+  top: 4251px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .heading-14 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 159.92px 0px 162.03px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 112.26px 0px 112.69px;
+  position: relative;
+}
+
+.www-dell-com-by-html .high-performance-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 22.7px 0px 23.25px;
+  position: absolute;
+  top: 96px;
+}
+
+.www-dell-com-by-html .div-hpg-sect-link-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 147px 0px 147.16px;
+  position: absolute;
+  top: 176px;
+}
+
+.www-dell-com-by-html .navigation-2 {
+  align-items: center;
+  display: flex;
+  left: 0;
+  max-width: 1483px;
+  position: absolute;
+  top: 4768px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-hd-ddf-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 184px;
+  justify-content: center;
+  padding: 0px 46.37px 0px 46.37px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-hd-ddf {
+  align-self: stretch;
+  position: relative;
+  width: 525.17px;
+}
+
+.www-dell-com-by-html .heading-15 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 209.67px 0px 210.5px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-dds-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 58.25px 0px 58.92px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-hpg-sect-link-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 211.51px 8px 211.66px;
+  position: absolute;
+  top: 148px;
+}
+
+.www-dell-com-by-html .navigation-POWERFUL {
+  align-items: flex-start;
+  display: flex;
+  left: 0;
+  padding: 0px 56.35px 0px 56.35px;
+  position: absolute;
+  top: 5302px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-dds-col-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 1483px;
+  min-height: 25px;
+  padding: 0px 0px 24px;
+  position: relative;
+  width: 685.65px;
+}
+
+.www-dell-com-by-html .div-hpg-left-area-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: #d6d6d6;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1483px;
+  min-height: 1px;
+  padding: 16px 25px 16px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading-16 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 233.77px 0px 234.88px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 165.61px 0px 166.04px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-order {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading-17 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 76.53px 16px 77.12px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-shop-now-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 272.16px 8px 272.49px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-figure {
+  align-self: stretch;
+  height: 318.32px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .image-fill-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-dell-com-by-html .image-fill-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 318.32px;
+  justify-content: center;
+  padding: 0px 0.01px 0px 0px;
+  position: relative;
+  width: 636.65px;
+}
+
+.www-dell-com-by-html .image-3 {
+  height: 318.32px;
+  position: relative;
+  width: 636.64px;
+}
+
+.www-dell-com-by-html .div-hpg-right-area-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: -2.29e-5px;
+  max-width: 1483px;
+  min-height: 25px;
+  padding: 16px 24px 40px;
+  position: relative;
+  width: 684.65px;
+}
+
+.www-dell-com-by-html .heading-18 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 242.98px 0px 244.67px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-dds-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 189.18px 0px 189.47px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading-19 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 136.66px 16px 136.99px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .navigation-we-are {
+  align-items: flex-start;
+  background-color: var(--porcelain);
+  display: flex;
+  justify-content: center;
+  left: 0;
+  padding: 0px 56.35px 16px 56.35px;
+  position: absolute;
+  top: 5860px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-hpg-fourup {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 1920px;
+  padding: 24px;
+  position: relative;
+}
+
+.www-dell-com-by-html .heading-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 971.3px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .text-wrapper-20 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-dds-d-flex {
+  align-self: stretch;
+  height: 493px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-fup-card-margin {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 16px 16px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 669px;
+}
+
+.www-dell-com-by-html .div-fup-card {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--nero);
+  box-shadow: 0px 8px 8px #002a5814, 0px 4px 4px #002a5814, 0px 2px 2px #002a5814;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 475.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .text-wrapper-21 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-fup-card-body {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: var(--mercury);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 17px 3.05e-5px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-fup-image-wrap {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-dell-com-by-html .figure-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 4px;
+  position: relative;
+}
+
+.www-dell-com-by-html .image-fill-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 119px;
+  justify-content: center;
+  position: relative;
+  width: 196px;
+}
+
+.www-dell-com-by-html .image-4 {
+  height: 119px;
+  position: relative;
+  width: 196px;
+}
+
+.www-dell-com-by-html .div-fup-body-column {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 0px 0px 0px 24px;
+  position: relative;
+}
+
+.www-dell-com-by-html .div-fup-body-column-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-fup-body {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .our-end-to-end-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 12.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .text-wrapper-22 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-fup-body-cta {
+  all: unset;
+  align-items: flex-start;
+  align-self: stretch;
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: flex-end;
+  min-height: 28px;
+  padding: 23px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-learn-more-wrapper {
+  all: unset;
+  align-items: flex-start;
+  align-self: stretch;
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 283.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-learn-more {
+  color: var(--science-blue);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .div-fup-card-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 669px;
+  padding: 16px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 653px;
+}
+
+.www-dell-com-by-html .heading-22 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 348.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .seamlessly-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 35.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-fup-card-margin-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 16px 16px 0px 0px;
+  position: absolute;
+  top: 244px;
+  width: 669px;
+}
+
+.www-dell-com-by-html .div-fup-card-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--nero);
+  box-shadow: 0px 8px 8px #002a5814, 0px 4px 4px #002a5814, 0px 2px 2px #002a5814;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  padding: 24px 24px 29px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .heading-23 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 327.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-fup-body-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 17.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-fup-body-cta-wrapper {
+  all: unset;
+  align-items: flex-start;
+  align-self: stretch;
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: flex-end;
+  min-height: 28px;
+  padding: 51px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-fup-card-margin-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 669px;
+  padding: 16px 0px 0px;
+  position: absolute;
+  top: 244px;
+  width: 653px;
+}
+
+.www-dell-com-by-html .heading-24 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 376.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-fup-image-wrap-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 5px;
+  position: relative;
+}
+
+.www-dell-com-by-html .making-a-measurable-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 14.15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .section-footer {
+  align-self: stretch;
+  background-color: var(--gallery);
+  height: 757px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .button-manage-your {
+  height: 38px;
+  left: 14px;
+  position: absolute;
+  top: -45px;
+  width: 34px;
+}
+
+.www-dell-com-by-html .nav-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .div-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 252.5px;
+  padding: 44px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-stack-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 164.5px;
+  padding: 0px 0px 83.5px;
+  position: relative;
+  width: 350.75px;
+}
+
+.www-dell-com-by-html .div-mh-flyout-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 20px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.www-dell-com-by-html .div-mh-flyout {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 268.75px 2.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .span-mh-label {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-dell-com-by-html .pseudo-margin-2 {
+  align-self: stretch;
+  object-fit: cover;
+  position: relative;
+  width: 22px;
+}
+
+.www-dell-com-by-html .pseudo-margin-3 {
+  align-self: stretch;
+  object-fit: cover;
+  position: relative;
+  width: 18px;
+}
+
+.www-dell-com-by-html .div-unified-feedback {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 18px;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+.www-dell-com-by-html .button-site-map-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0.5px 295.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-stack {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 164.5px;
+  padding: 0.5px 5px 0px 0px;
+  position: relative;
+  width: 350.75px;
+}
+
+.www-dell-com-by-html .span-mh-show-desktop-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.www-dell-com-by-html .text-wrapper-23 {
+  color: #636363;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 270.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-order-status-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 267.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-my-products-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 266.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-dell-rewards-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 210.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-stack-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 164.5px;
+  padding: 0.5px 5px 36px 0px;
+  position: relative;
+  width: 350.75px;
+}
+
+.www-dell-com-by-html .link-support-home-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 254.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-contact-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 180.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-returns-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 296.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-stack-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 164.5px;
+  padding: 0.5px 5px 72px 0px;
+  position: relative;
+  width: 350.75px;
+}
+
+.www-dell-com-by-html .link-community-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 273.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-contact-us-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 276.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 388.5px;
+  padding: 0px 40px 44px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-stack-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 344.5px;
+  padding: 0.5px 5px 180px 0px;
+  position: relative;
+  width: 350.75px;
+}
+
+.www-dell-com-by-html .link-APEX-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 310.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-products-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 288.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-solutions-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 286.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-services-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 292.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-stack-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 344.5px;
+  padding: 0.5px 5px 0px 0px;
+  position: relative;
+  width: 350.75px;
+}
+
+.www-dell-com-by-html .link-who-we-are-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 269.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-careers-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 296.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-dell-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 188.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-investors-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 287.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-newsroom-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 276.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .item-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 264.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-recycling-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 285.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-ESG-impact-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 260.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-customer-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 237.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .div-stack-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 344.5px;
+  padding: 0.5px 5px 216px 0px;
+  position: relative;
+  width: 350.75px;
+}
+
+.www-dell-com-by-html .link-find-a-partner-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 257.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-OEM-solutions-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 253.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-partner-program-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 241.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-blog-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 317.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-events-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 303.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-email-sign-up-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 258.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-dell-learning-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 219.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-glossary-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 290.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-privacy-centre-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 255.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-resource-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 240.75px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .link-trial-software-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 185.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .list-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 40px 8px;
+  position: absolute;
+  top: 641px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .list {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  padding: 0px 1121.76px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .item-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 45.7px 18px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .item-link-dell {
+  color: #636363;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-dell-com-by-html .item-link-dell-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 45.54px 18px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .nav-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 40px;
+  position: absolute;
+  top: 689px;
+  width: 1483px;
+}
+
+.www-dell-com-by-html .list-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  padding: 0px 356.81px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-dell-com-by-html .item-link-copyright-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 47.02px 18px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .item-link-terms-of-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 48px 18px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .item-link-privacy-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 47.15px 18px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .item-link-legal-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 46.98px 18px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .item-link-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 47.29px 18px 0px;
+  position: relative;
+}
+
+.www-dell-com-by-html .item-link-anti-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 46.91px 18px 0px;
+  position: relative;
+}
